@@ -3,7 +3,6 @@
 
 # Libraries ====
 remotes::install_github("egenn/rtemis")
-library(rtemis)
 rtInitProjectDir()
 
 # Data ====
