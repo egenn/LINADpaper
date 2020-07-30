@@ -12,7 +12,11 @@ git clone https://github.com/EpistasisLab/penn-ml-benchmarks.git
 
 ## Read Data in R
 
-`/R/LINAD_PMLB_Data.R` includes the code used to read from the cloned PMLB repository and save to .rds
+`/R/LINAD_PMLB_Data.R` includes the code used to read from the cloned PMLB repository and save to an `.rds` file.
+
+## Install `rtemis`
+
+Follow instructions from the [documentation](https://rtemis.lambdamd.org/setup.html).
 
 ## Experiments
 
