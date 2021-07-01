@@ -2,6 +2,8 @@
 
 Linear Additive Tree paper code
 
+[LINAD Vignette](https://linad.lambdamd.org/LINADvignette.html)
+
 ## Clone PMLB datasets
 
 Get the [PMLB data](https://github.com/EpistasisLab/penn-ml-benchmarks)
